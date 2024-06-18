@@ -2,9 +2,7 @@
 TABLEAU-CITI BIKE
 
 Tableau Link:
-
-https://public.tableau.com/app/profile/shavez.hussain/viz/CitiBike-ShavezHussain/CitiBikeData?publish=yes
-
+https://public.tableau.com/app/profile/mujahed/viz/CitiBike-/CitiBikeData?publish=yes
 
 Instructions
 Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
